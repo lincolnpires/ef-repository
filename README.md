@@ -1,2 +1,2 @@
 # fluffy-umbrella
-Min Repository implementation
+Minimum EF Repository implementation with no details.
